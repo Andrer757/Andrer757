@@ -18,7 +18,7 @@ Entrepreneur, software engineer, and open-source enthusiast with over a decade o
 - 📱 **Senior Android Developer** at **[Devoteam Creative Tech Portugal](https://pt.devoteam.com/pt-pt/expertise/creative-tech/)**, engineering robust, large-scale consumer mobile applications and modern architecture.
 - 🛡️ **Building Mondea**: Leading architecture for a zero-knowledge, local-first personal finance platform keeping sensitive data on-device and user-owned.
 - 🏴‍☠️ **Civic Leadership**: Founder & General Secretary of the **[Portuguese Pirate Party](https://www.partidopiratapt.eu/)** (*Partido Pirata Português*), advocating for information freedom, net neutrality, and algorithmic transparency.
-- 🎙️ **Media & Community**: Co-host of the Sporting CP podcast **[Dois Leões à Conversa](https://linktr.ee/doisleoes)** and long-time columnist at **PCGuia**.
+- 🎙️ **Media & Community**: Co-host of the Sporting CP podcast **[Dois Leões à Conversa](https://linktr.ee/doisleoes)** and long-time columnist at **[PCGuia](https://pcguia.pt)**.
 
 [![Credentials](https://img.shields.io/badge/Credentials-Accredible_Wallet-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.credential.net/profile/andrrosa/wallet)
 
